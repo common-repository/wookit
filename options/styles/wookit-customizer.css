@@ -1,0 +1,18 @@
+.switch .customize-control-title {
+  display: block;
+  width: 100%;
+  clear: both;
+}
+
+#customize-control-wookit-checkout-sortfields .dashicons-visibility.visibility {
+  display: none !important;
+}
+
+#customize-theme-controls #accordion-panel-wookit-panel h3.accordion-section-title {
+    color: #5daaff;
+    background-color: #222;
+}
+
+#customize-theme-controls #accordion-panel-wookit-panel {
+  background-color:#222;
+}
